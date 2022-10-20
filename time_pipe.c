@@ -8,7 +8,7 @@
 #define WRITE_END 1
 
 // To test use the following command:
-//g++ -pthread time_pipe.c ;./a.out ls -l | tee time_shm_out.txt
+//g++ -pthread time_pipe.c ;./a.out ls -l | tee time_pipe_out.txt
 
 int main(int argc, char *argv[])
 {
