@@ -1,6 +1,6 @@
 a.out
 time_pipe.c
-time_shm_out.txt
+time_pipe_out.txt
 
 End time: 1664392529.651526 seconds
 
