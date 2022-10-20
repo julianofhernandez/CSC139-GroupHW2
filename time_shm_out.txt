@@ -1,0 +1,8 @@
+a.out
+time_pipe.c
+time_shm.c
+time_shm_out.txt
+
+End time: 1666294674.723330 seconds
+
+Elapsed time: 0.000638 seconds
